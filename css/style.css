@@ -28,3 +28,10 @@ body{
     
 
 }
+.tab-content {
+    border-left: 3px solid #ddd;
+    border-right: 3px solid #ddd;
+    border-bottom: 3px solid #ddd;
+    padding: 10px;
+}
+
